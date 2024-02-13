@@ -1,0 +1,25 @@
+.pokemon-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+.pagination-controls {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.pagination-buttons {
+    display: flex;
+}
+  
+.limit-select-form {
+    min-width: 120px;
+}
+  
+.limit-select-control {
+    width: 100%;
+}
+  
