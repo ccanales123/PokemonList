@@ -1,5 +1,5 @@
 import React from "react";
-import PokemonList from './components/Pokemonlist'
+import PokemonList from './components/PokemonList'
 
 function App() {
   return (
